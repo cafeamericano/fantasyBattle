@@ -1,0 +1,33 @@
+html,
+body,
+main {
+  height: 100%;
+  background: rgb(71, 71, 71);
+  font-family: 'Press Start 2P', cursive;
+
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#game-window {
+  position: relative;
+  height: 600px;
+  width: 800px;
+  background-color: blue;
+  background-size: 15% 15%;
+  /* background-image: url("../images/grass.png") */
+}
+#playerHPbar,
+#enemyHPbar {
+  background: red;
+}
+#stageAndTime {
+  font-family: "Press Start 2P", cursive;
+  color: white;
+  text-align: center;
+}
+span {
+  opacity: 0.8
+}
