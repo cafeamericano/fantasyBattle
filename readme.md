@@ -1,5 +1,7 @@
 # Fantasy Battle Game
 
+Deployed at: https://cafeamericano.github.io/fantasyBattle/
+
 A simple combat RPG game that allows the player to choose a character with unique health and attack attributes, then fight a group of enemies in order to win the game. If the player's HP drops to zero or below before all enemies are defeated, the player loses. Otherwise, the player is victorious. The program has been deliberately written to require the user to defeat a selected enemy before opting to attack another.
 
 **Artwork Attributions**
